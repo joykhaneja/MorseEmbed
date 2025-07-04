@@ -41,7 +41,7 @@ def embed_watermark(audio, watermark, offset_samples):
 
 def main():
     in_file = input("Input WAV file: ").strip()
-    message = input("Message to embed (e.g. FLAG{secret}): ").strip()
+    message = input("Message to embed (e.g. Hello1234): ").strip()
     out_file = input("Output WAV file: ").strip()
     freq = float(input("Tone frequency (e.g. 19000 for high frequency, 15000 for safer range): ").strip())
 
