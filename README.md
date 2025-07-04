@@ -1,6 +1,9 @@
 # MorseEmbed
 MorseEmbed is a Python CLI utility that embeds secret messages into .wav audio files using Morse code tones. The watermark is subtle—inaudible or barely noticeable—and can be later revealed through spectrogram analysis, making it perfect for ownership marking, steganography, or CTF-style flag hiding.
 
+![image](https://github.com/user-attachments/assets/cf7046d5-9ba7-403a-8e72-598760725461)
+
+
 ## Features
 - Interactive CLI — no flags needed
 - Morse code conversion and tone generation
